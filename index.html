@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Parse Tree Generator</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="parser.js"></script>
+    <script src="tree.js"></script>
+
+</head>
+
+<body>
+
+    <h1>Parse Tree Generator</h1>
+
+    <div class="container">
+
+        <h3>Enter Grammar</h3>
+
+        <textarea id="grammar" placeholder="Example:
+E -> T E'
+E' -> + T E' | ε
+T -> id"></textarea>
+
+        <h3>Enter Input String</h3>
+
+        <input type="text" id="inputString" placeholder="Example: id + id">
+
+        <br><br>
+
+        <button onclick="generateTree()">Generate Parse Tree</button>
+
+    </div>
+
+    <h2>Result</h2>
+
+    <pre id="result"></pre>
+
+    <div id="tree"></div>
+
+    <script src="parser.js"></script>
+
+    <script src="tree.js"></script>
+
+</body>
+
+</html>
