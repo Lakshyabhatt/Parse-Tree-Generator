@@ -1,101 +1,101 @@
-Parse Tree Generator 🌳
+🌳 Parse Tree Generator
 
-A Web-based Parse Tree Generator that allows users to input a grammar and a string, and then visualize the corresponding parse tree using Recursive Descent Parsing.
+A Web-Based Parse Tree Generator that allows users to input a grammar and an input string, then visualize the corresponding parse tree using Recursive Descent Parsing.
 
-This project is designed as an educational tool to help students understand how parsing works internally in compiler design.
+This project is designed as an educational tool to help students understand how parsing works internally in Compiler Design.
 
-Project Overview
+📘 Project Overview
 
-Parsing is a fundamental concept in compiler construction. It checks whether an input string follows a specific grammar and generates a parse tree representing the syntactic structure of the input.
+Parsing is a fundamental concept in compiler construction. It analyzes whether a given input string conforms to a specified grammar and generates a parse tree representing the syntactic structure of the input.
 
-Many students find it difficult to understand parsing through manual derivations. This project solves that problem by providing an interactive visualization of parse trees.
+However, many students struggle to understand parsing through traditional methods such as manual derivations on paper.
 
-Users can:
+This project solves that problem by providing an interactive web-based visualization tool that allows users to experiment with grammar rules and immediately see how the parse tree is constructed.
 
-Enter grammar rules
+With this tool, users can:
 
-Provide an input string
+✏️ Enter grammar rules
 
-Generate and visualize the parse tree
+⌨️ Provide an input string
 
-Features
+🌳 Generate and visualize the parse tree
 
-Grammar input through a simple web interface
+✨ Features
 
-Detection of left recursion
+📥 Grammar input through a simple web interface
 
-Implementation of Recursive Descent Parsing
+🔍 Detection of left recursion in grammar
 
-Automatic parse tree generation
+⚙️ Implementation of Recursive Descent Parsing
 
-Dynamic tree visualization using D3.js
+🌳 Automatic parse tree generation
 
-Error handling for invalid input strings
+📊 Dynamic tree visualization using D3.js
 
-Technologies Used
+❌ Error handling for invalid input strings
 
-HTML – User Interface
-
-CSS – Styling
-
-JavaScript – Parsing logic
-
-D3.js – Tree visualization
-
-Git & GitHub – Version control
-
-Project Structure
+🛠 Technologies Used
+Technology	Purpose
+HTML	User Interface
+CSS	Styling
+JavaScript	Parsing logic
+D3.js	Parse tree visualization
+Git & GitHub	Version control
+📁 Project Structure
 parse-tree-generator
 │
-├── index.html      # Main UI of the application
+├── index.html      # Main user interface
 ├── style.css       # Styling for the webpage
 ├── parser.js       # Grammar processing and recursive descent parser
 ├── tree.js         # Parse tree visualization using D3.js
 └── README.md       # Project documentation
-How It Works
+⚙️ How It Works
 
-The user enters grammar rules.
+The application follows these steps:
 
-The system processes the grammar and checks for left recursion.
+1️⃣ The user enters grammar rules.
+2️⃣ The system processes the grammar and checks for left recursion.
+3️⃣ The input string is tokenized.
+4️⃣ A recursive descent parser validates the string according to the grammar.
+5️⃣ During parsing, a tree structure is created dynamically.
+6️⃣ The generated tree is visualized using D3.js in the browser.
 
-The input string is tokenized.
-
-A recursive descent parser validates the string.
-
-During parsing, a tree structure is created.
-
-The tree is visualized using D3.js.
-
-How to Run the Project
-
-Clone the repository
-
+🚀 How to Run the Project
+1️⃣ Clone the repository
 git clone https://github.com/Lakshyabhatt/Parse-Tree-Generator.git
-
-Open the project folder.
+2️⃣ Open the project folder
+cd Parse-Tree-Generator
+3️⃣ Run the project
 
 Open index.html in any web browser.
 
-Enter grammar and input string.
+4️⃣ Use the application
 
-Click Generate Parse Tree.
+Enter grammar rules
 
-Team Members
+Enter the input string
+
+Click Generate Parse Tree
+
+👥 Team Members
 
 Team Name: The Optimizers
 
-Lakshya Bhatt (Team Lead)
+👨‍💻 Lakshya Bhatt (Team Lead)
 
-Arpit Uniyal
+👨‍💻 Arpit Uniyal
 
-Yanjana Butola
+👨‍💻 Yanjana Butola
 
-Harshini T
+👨‍💻 Harshini T
 
-References
+📚 References
 
-Compilers: Principles, Techniques, and Tools – Aho, Lam, Sethi, Ullman
+Compilers: Principles, Techniques, and Tools
+Aho, Lam, Sethi, Ullman
 
-D3.js Documentation – https://d3js.org
+D3.js Documentation
+https://d3js.org
 
-MDN Web Docs – https://developer.mozilla.org
+MDN Web Docs
+https://developer.mozilla.org
