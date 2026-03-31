@@ -105,7 +105,7 @@ in your browser 🌐
 - 👨‍💻 [Lakshya Bhatt](https://github.com/Lakshyabhatt) (Team Lead)
 - 👨‍💻 [Arpit Uniyal](https://github.com/arpit-username)
 - 👨‍💻 [Yanjana Butola](https://github.com/yanjana-username)
-- 👨‍💻 [Harshini T](https://github.com/Harshini.T_14)
+- 👨‍💻 [Harshini T](https://github.com/Harshini145)
 
 ---
 ## 📚 References
