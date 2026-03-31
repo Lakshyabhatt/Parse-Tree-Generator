@@ -83,30 +83,29 @@ parse-tree-generator/
 ---
 
 ## 🚀 Getting Started
-
-### 1️⃣ Clone Repository
 ```bash
+1️⃣ Clone Repository
 git clone https://github.com/Lakshyabhatt/Parse-Tree-Generator.git
+
 2️⃣ Navigate to Folder
 cd Parse-Tree-Generator
+
 3️⃣ Run the Project
-
 Simply open:
-
 index.html
-
 in your browser 🌐
 
-bash ```
+```
 
-👥 Team
+👥 Team : The Optimizers
 
-Team Name: The Optimizers
 
 👨‍💻 Lakshya Bhatt (Team Lead)
 👨‍💻 Arpit Uniyal
 👨‍💻 Yanjana Butola
 👨‍💻 Harshini T
+
+
 📚 References
 📘 Compilers: Principles, Techniques, and Tools
 (Aho, Lam, Sethi, Ullman)
