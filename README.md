@@ -101,15 +101,20 @@ in your browser 🌐
 
 
 👨‍💻 Lakshya Bhatt (Team Lead)
+
 👨‍💻 Arpit Uniyal
+
 👨‍💻 Yanjana Butola
+
 👨‍💻 Harshini T
 
 
 📚 References
-📘 Compilers: Principles, Techniques, and Tools
-(Aho, Lam, Sethi, Ullman)
+
+📘 Compilers: Principles, Techniques, and Tools (Aho, Lam, Sethi, Ullman)
+
 🌐 D3.js Documentation
 https://d3js.org
+
 🌐 MDN Web Docs
 https://developer.mozilla.org
