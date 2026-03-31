@@ -1,101 +1,119 @@
-🌳 Parse Tree Generator
+# 🌳 Parse Tree Generator
 
-A Web-Based Parse Tree Generator that allows users to input a grammar and an input string, then visualize the corresponding parse tree using Recursive Descent Parsing.
+> A Web-Based Tool to Visualize Parse Trees using Recursive Descent Parsing
 
-This project is designed as an educational tool to help students understand how parsing works internally in Compiler Design.
+---
 
-📘 Project Overview
+## 📌 Overview
 
-Parsing is a fundamental concept in compiler construction. It analyzes whether a given input string conforms to a specified grammar and generates a parse tree representing the syntactic structure of the input.
+The **Parse Tree Generator** is an interactive web application that allows users to:
 
-However, many students struggle to understand parsing through traditional methods such as manual derivations on paper.
+- Input grammar rules
+- Provide an input string
+- Generate and visualize the corresponding parse tree
 
-This project solves that problem by providing an interactive web-based visualization tool that allows users to experiment with grammar rules and immediately see how the parse tree is constructed.
+This project is designed as an **educational tool** to help students understand how parsing works internally in **Compiler Design**.
 
-With this tool, users can:
+---
 
-✏️ Enter grammar rules
+## 🎯 Problem Statement
 
-⌨️ Provide an input string
+Parsing is a fundamental concept in compiler construction. It checks whether a given input string follows a defined grammar and builds a parse tree.
 
-🌳 Generate and visualize the parse tree
+However, students often find parsing difficult because:
+- Manual derivations are complex 😓
+- Visualization is missing ❌
 
-✨ Features
+---
 
-📥 Grammar input through a simple web interface
+## 💡 Solution
 
-🔍 Detection of left recursion in grammar
+This project provides a **visual and interactive approach**:
 
-⚙️ Implementation of Recursive Descent Parsing
+✔️ Experiment with grammar rules  
+✔️ Validate input strings  
+✔️ Instantly see parse tree construction  
 
-🌳 Automatic parse tree generation
+---
 
-📊 Dynamic tree visualization using D3.js
+## ✨ Features
 
-❌ Error handling for invalid input strings
+- 📥 Simple grammar input interface  
+- 🔍 Left recursion detection  
+- ⚙️ Recursive Descent Parsing implementation  
+- 🌳 Automatic parse tree generation  
+- 📊 Dynamic visualization using D3.js  
+- ❌ Error handling for invalid inputs  
 
-🛠 Technologies Used
-Technology	Purpose
-HTML	User Interface
-CSS	Styling
-JavaScript	Parsing logic
-D3.js	Parse tree visualization
-Git & GitHub	Version control
-📁 Project Structure
-parse-tree-generator
+---
+
+## 🛠 Tech Stack
+
+| Technology | Purpose |
+|----------|--------|
+| HTML | Structure |
+| CSS | Styling |
+| JavaScript | Parsing Logic |
+| D3.js | Tree Visualization |
+| Git & GitHub | Version Control |
+
+---
+
+## 📁 Project Structure
+parse-tree-generator/
 │
-├── index.html      # Main user interface
-├── style.css       # Styling for the webpage
-├── parser.js       # Grammar processing and recursive descent parser
-├── tree.js         # Parse tree visualization using D3.js
-└── README.md       # Project documentation
-⚙️ How It Works
+├── index.html # Main UI
+├── style.css # Styling
+├── parser.js # Parsing logic
+├── tree.js # Tree visualization
+└── README.md # Documentation
 
-The application follows these steps:
 
-1️⃣ The user enters grammar rules.
-2️⃣ The system processes the grammar and checks for left recursion.
-3️⃣ The input string is tokenized.
-4️⃣ A recursive descent parser validates the string according to the grammar.
-5️⃣ During parsing, a tree structure is created dynamically.
-6️⃣ The generated tree is visualized using D3.js in the browser.
+---
 
-🚀 How to Run the Project
-1️⃣ Clone the repository
+## ⚙️ How It Works
+
+1. User enters grammar rules  
+2. System checks for left recursion  
+3. Input string is tokenized  
+4. Recursive descent parser validates input  
+5. Tree structure is built dynamically  
+6. Parse tree is visualized using D3.js  
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone Repository
+```bash
 git clone https://github.com/Lakshyabhatt/Parse-Tree-Generator.git
-2️⃣ Open the project folder
+2️⃣ Navigate to Folder
 cd Parse-Tree-Generator
-3️⃣ Run the project
+3️⃣ Run the Project
 
-Open index.html in any web browser.
+Simply open:
 
-4️⃣ Use the application
+index.html
 
+in your browser 🌐
+
+🧪 Usage
 Enter grammar rules
-
-Enter the input string
-
-Click Generate Parse Tree
-
-👥 Team Members
+Enter input string
+Click "Generate Parse Tree"
+View the visualized tree 🌳
+👥 Team
 
 Team Name: The Optimizers
 
 👨‍💻 Lakshya Bhatt (Team Lead)
-
 👨‍💻 Arpit Uniyal
-
 👨‍💻 Yanjana Butola
-
 👨‍💻 Harshini T
-
 📚 References
-
-Compilers: Principles, Techniques, and Tools
-Aho, Lam, Sethi, Ullman
-
-D3.js Documentation
+📘 Compilers: Principles, Techniques, and Tools
+(Aho, Lam, Sethi, Ullman)
+🌐 D3.js Documentation
 https://d3js.org
-
-MDN Web Docs
+🌐 MDN Web Docs
 https://developer.mozilla.org
