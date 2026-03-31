@@ -96,8 +96,8 @@ index.html
 in your browser 🌐
 
 ```
-
-👥 Team : The Optimizers
+---
+## 👥 Team : The Optimizers
 
 
 👨‍💻 Lakshya Bhatt (Team Lead)
@@ -108,8 +108,8 @@ in your browser 🌐
 
 👨‍💻 Harshini T
 
-
-📚 References
+---
+## 📚 References
 
 📘 Compilers: Principles, Techniques, and Tools (Aho, Lam, Sethi, Ullman)
 
