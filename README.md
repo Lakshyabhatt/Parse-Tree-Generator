@@ -100,13 +100,12 @@ in your browser 🌐
 ## 👥 Team : The Optimizers
 
 
-👨‍💻 Lakshya Bhatt (Team Lead)
+## 👥 Team Members
 
-👨‍💻 Arpit Uniyal
-
-👨‍💻 Yanjana Butola
-
-👨‍💻 Harshini T
+- 👨‍💻 [Lakshya Bhatt](https://github.com/Lakshyabhatt) (Team Lead)
+- 👨‍💻 [Arpit Uniyal](https://github.com/arpit-username)
+- 👨‍💻 [Yanjana Butola](https://github.com/yanjana-username)
+- 👨‍💻 [Harshini T](https://github.com/Harshini.T_14)
 
 ---
 ## 📚 References
