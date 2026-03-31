@@ -104,7 +104,7 @@ in your browser 🌐
 
 - 👨‍💻 [Lakshya Bhatt](https://github.com/Lakshyabhatt) - Parsing Engine Developer
 - 👨‍💻 [Arpit Uniyal](https://github.com/arpit-username) - UI Developer
-- 👨‍💻 [Yanjana Butola](https://github.com/yanjana-username) - Tree Visualization
+- 👨‍💻 [Yanjana Butola](https://github.com/yanjanabutola) - Tree Visualization
 - 👨‍💻 [Harshini T](https://github.com/Harshini145) - Documentation & Testing
 
 ---
