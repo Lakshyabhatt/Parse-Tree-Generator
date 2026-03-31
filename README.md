@@ -99,9 +99,6 @@ in your browser 🌐
 ---
 ## 👥 Team : The Optimizers
 
-
-## 👥 Team Members
-
 - 👨‍💻 [Lakshya Bhatt](https://github.com/Lakshyabhatt) - Parsing Engine Developer
 - 👨‍💻 [Arpit Uniyal](https://github.com/arpit-username) - UI Developer
 - 👨‍💻 [Yanjana Butola](https://github.com/yanjanabutola) - Tree Visualization
