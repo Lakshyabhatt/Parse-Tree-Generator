@@ -102,10 +102,10 @@ in your browser 🌐
 
 ## 👥 Team Members
 
-- 👨‍💻 [Lakshya Bhatt](https://github.com/Lakshyabhatt) (Team Lead)
-- 👨‍💻 [Arpit Uniyal](https://github.com/arpit-username)
-- 👨‍💻 [Yanjana Butola](https://github.com/yanjana-username)
-- 👨‍💻 [Harshini T](https://github.com/Harshini145)
+- 👨‍💻 [Lakshya Bhatt](https://github.com/Lakshyabhatt) - Parsing Engine Developer
+- 👨‍💻 [Arpit Uniyal](https://github.com/arpit-username) - UI Developer
+- 👨‍💻 [Yanjana Butola](https://github.com/yanjana-username) - Tree Visualization
+- 👨‍💻 [Harshini T](https://github.com/Harshini145) - Documentation & Testing
 
 ---
 ## 📚 References
