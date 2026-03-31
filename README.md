@@ -97,11 +97,8 @@ index.html
 
 in your browser 🌐
 
-🧪 Usage
-Enter grammar rules
-Enter input string
-Click "Generate Parse Tree"
-View the visualized tree 🌳
+bash ```
+
 👥 Team
 
 Team Name: The Optimizers
